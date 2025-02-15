@@ -27,7 +27,7 @@ This project is a **React Vite TypeScript** application for a **Dog Adoption Por
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/----
+git clone https://github.com/BilalAkhter906/frontend-fetch-dogs.git
 cd fetch-dog-adoption
 ```
 
